@@ -1,0 +1,5 @@
+# Ignore dataset and augmentation folders
+aug_data/
+data/
+*.jpg
+*.json
